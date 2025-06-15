@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a guy who enjoys learning, figuring out seemingly complex stuff, and building cool things.
+On the side, I'm a software engineer who enjoys being hands-on with every single part of the stack.
+Be it frontend, backend, DevOps, SRE, Data Engineering, DevXP, etc. Whatever comes across my way on the journey to build something new.
+I also love studying organizations and learning about how the world works. So I'm almost done with my MBA because I thought that'd help (it surprisingly did).
+Mostly though, I enjoy reading the most. Economics, busienss, philosophy, sociology, and whatever else I deem interesting.
+
+See my [resume](./ahmed_elshafey_resume.pdf).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahelshafey/).
 <!--
 **ash0x0/ash0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
