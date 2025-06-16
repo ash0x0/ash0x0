@@ -19,14 +19,6 @@ Be it frontend, backend, DevOps, SRE, Data Engineering, DevXP, etc. Whatever com
 I also love studying organizations and learning about how the world works. So I'm almost done with my MBA because I thought that'd help (it surprisingly did).
 Mostly though, I enjoy reading the most. Economics, busienss, philosophy, sociology, and whatever else I deem interesting.
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ash0x0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ash0x0&theme=dark&hide_border=false&mode=weekly)
-![](https://github-contributor-stats.vercel.app/api?username=ash0x0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ash0x0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
-![](https://github-profile-trophy.vercel.app/?username=ash0x0&theme=radical&no-frame=false&no-bg=false)
-
 # 💻 Tech Stack
 
 ### Languages
@@ -133,6 +125,14 @@ Mostly though, I enjoy reading the most. Economics, busienss, philosophy, sociol
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ash0x0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ash0x0&theme=dark&hide_border=false&mode=weekly)
+![](https://github-contributor-stats.vercel.app/api?username=ash0x0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ash0x0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![](https://github-profile-trophy.vercel.app/?username=ash0x0&theme=radical&no-frame=false&no-bg=false)
 
 # ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
